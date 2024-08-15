@@ -1,3 +1,7 @@
 # Enviornment Variables
 
 .env
+
+# Venv
+
+openai-env/

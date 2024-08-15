@@ -1,4 +1,4 @@
-#!/home/karlito/projects/genAi/first_app/openai-env/bin/python3
+#!/home/karlito/projects/genAi/gen_ai/openai-env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
